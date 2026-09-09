@@ -9,9 +9,9 @@
 body {
     margin: 0;
 
-    background: #111;
+    background: white;
 
-    color: white;
+    color: black;
 
     font-family:
         Arial,
@@ -25,11 +25,11 @@ body {
 ========================== */
 
 #game {
-    width: 900px;
+    width: 1600px;
 
-    height: 600px;
+    height: 800px;
 
-    margin: 30px auto;
+    margin: 30px 30px;
 
     position: relative;
 
