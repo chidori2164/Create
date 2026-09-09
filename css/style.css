@@ -35,7 +35,7 @@ body {
 
     overflow: hidden;
 
-    background: #333;
+    background: white;
 
     cursor: pointer;
 }
@@ -58,7 +58,7 @@ body {
 
     align-items: center;
 
-    background: #333;
+    background: white;
 }
 
 
