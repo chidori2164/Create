@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 0 0;
+    margin: 0;
     background: white;
     color: black;
     font-family:
@@ -15,7 +15,7 @@ body {
 #game {
     width: 900px;
     height: 600px;
-    margin: 30px auto;
+    margin: 0;
     position: relative;
     overflow: hidden;
     background: white;
