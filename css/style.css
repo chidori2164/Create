@@ -44,6 +44,7 @@ body {
 
 #character {
     position: absolute;
+    font-size: 22px;
     bottom: 150px;
     font-size: 100px;
 }
